@@ -1,12 +1,18 @@
 {
   "name": "ada-skill-navigator-widget",
-  "version": "2.0.0",
+  "version": "4.0.0",
   "main": "server.js",
-  "scripts": { "start": "node server.js" },
+  "scripts": {
+    "start": "node server.js",
+    "build:catalog": "node scripts/build-catalog.mjs"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^2.7.0",
+    "express-rate-limit": "^7.4.0"
   },
-  "engines": { "node": ">=18.0.0" }
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }

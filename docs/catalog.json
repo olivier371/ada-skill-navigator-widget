@@ -1,0 +1,777 @@
+{
+ "generated": "seed",
+ "products": [
+  {
+   "n": "Machine Learning with Python",
+   "l": "Intermediate",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/machine-learning-with-python/",
+   "ds": "Learn how to build machine learning models in Python. This course covers common libraries, Pandas, and Scikit-Learn to build your own ML models."
+  },
+  {
+   "n": "Data internship & career counseling",
+   "l": "Beginner",
+   "d": 6,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/data-internship-career-counseling/",
+   "ds": "Optional internship at a company to further develop your data skills, plus active career counseling and job placement support."
+  },
+  {
+   "n": "Data professional bootcamp",
+   "l": "Intermediate",
+   "d": 27,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/data-professional-bootcamp/",
+   "ds": "Become a versatile data professional. This comprehensive bootcamp combines data science, analytics, and engineering skills in one program."
+  },
+  {
+   "n": "Building AI models with Azure",
+   "l": "Advanced",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/building-ai-models-with-azure-course/",
+   "ds": "Learn to work with Azure to design, develop and deploy AI-powered solutions including NLP, Generative AI, and Computer Vision."
+  },
+  {
+   "n": "AI Professional bootcamp",
+   "l": "Advanced",
+   "d": 27,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://www.amsterdamdataacademy.com",
+   "ds": "This programme stacks two bootcamps, AI Leadership and Applied AI, into one journey: steer AI responsibly and build with it hands-on."
+  },
+  {
+   "n": "Datascience bootcamp",
+   "l": "Intermediate",
+   "d": 18,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/datascience-bootcamp/",
+   "ds": "What exactly is data science, and why has it gained immense popularity? In this beginner-friendly bootcamp, you will explore the fascinating world of data science."
+  },
+  {
+   "n": "Data & Analytics Bootcamp",
+   "l": "Intermediate",
+   "d": 18,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/data-analytics-bootcamp/",
+   "ds": "Are you looking to become a data analytics expert? This bootcamp will train you to achieve expert-level skills in less than 3 months."
+  },
+  {
+   "n": "Deep Learning with Python",
+   "l": "Advanced",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/deep-learning-with-python-course/",
+   "ds": "Dive into the fundamentals of neural networks, covering architectures like CNNs, RNNs, and transformers for image recognition, NLP, and advanced AI applications."
+  },
+  {
+   "n": "Applied AI & bootcamp",
+   "l": "Intermediate",
+   "d": 18,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/applied-ai-bootcamp/",
+   "ds": "Learn to apply AI in practice with hands-on experience in prompt engineering, AI agents, LangChain, RAG, and AI ethics."
+  },
+  {
+   "n": "Applied AI & Data Science Diploma Course",
+   "l": "Advanced",
+   "d": 27,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/applied-ai-data-science-diploma-course/",
+   "ds": "The Applied AI and Data Science Diploma Course is the Netherlands' first private AI and data science programme at NLQF level 6, built from foundations to a supervised real-world internship."
+  },
+  {
+   "n": "Data fundamentals",
+   "l": "Beginner",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/fundamentals-of-datascience-ai/",
+   "ds": "Build your foundation in data: the landscape, the tools and the statistics behind every data role."
+  },
+  {
+   "n": "Programming with AI (Claude Code)",
+   "l": "Intermediate",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/programming-with-ai-tools/",
+   "ds": "AI-assisted development is the new normal. Learn to direct Claude Code inside a real repository, from context engineering to production-ready delivery."
+  },
+  {
+   "n": "AI Strategy & Impact",
+   "l": "Intermediate",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/building-ai-strategy-course/",
+   "ds": "Learn to design and implement AI strategy within your organization. Covers AI governance, use case identification, and change management."
+  },
+  {
+   "n": "Data Storytelling",
+   "l": "Beginner",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/data-storytelling/",
+   "ds": "Learn to present data in a compelling way that sticks."
+  },
+  {
+   "n": "Data expert bootcamp",
+   "l": "Advanced",
+   "d": 27,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/data-expert-bootcamp/",
+   "ds": "The most comprehensive data bootcamp combining data science, machine learning, deep learning, data engineering, and AI in one intensive program."
+  },
+  {
+   "n": "AI Expert bootcamp",
+   "l": "Advanced",
+   "d": 27,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/ai-professional-bootcamp/",
+   "ds": "This programme stacks two bootcamps — Applied AI and AI Engineering — into one journey: build across the full AI stack."
+  },
+  {
+   "n": "AI Leadership Track",
+   "l": "Intermediate",
+   "d": 5,
+   "nq": "None",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/ai-leadership-track/",
+   "ds": "A closed programme for founders, directors and senior leaders. You bring one real AI decision from your own organisation and carry it through."
+  },
+  {
+   "n": "AI Engineering bootcamp",
+   "l": "Advanced",
+   "d": 18,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/ai-engineering-bootcamp/",
+   "ds": "Secure your career for the future with this bootcamp in generative AI."
+  },
+  {
+   "n": "Building AI Agents",
+   "l": "Beginner",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/building-ai-agents-course/",
+   "ds": "Build your own AI agents, no coding needed. Design agents that perceive, reason, act and remember with no-code tools like n8n and Claude."
+  },
+  {
+   "n": "AI Literacy & Ethics",
+   "l": "Beginner",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/ai-literacy-ethics-course/",
+   "ds": "Explore the ethical, legal, and social implications of AI, including the EU AI Act."
+  },
+  {
+   "n": "Vibe Coding with Lovable",
+   "l": "Beginner",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/vibe-coding/",
+   "ds": "Describe what you want to build and let AI do the heavy lifting — no coding background required."
+  },
+  {
+   "n": "Langchain & AI agents",
+   "l": "Advanced",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/building-genai-apps-with-langchain/",
+   "ds": "Learn LangChain, a powerful framework for building applications with large language models."
+  },
+  {
+   "n": "Microsoft Excel Essentials",
+   "l": "Beginner",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/microsoft-excel-essentials-course/",
+   "ds": "Maximize your efficiency in using Microsoft Excel for large datasets."
+  },
+  {
+   "n": "Data visualization with Power BI",
+   "l": "Beginner",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/data-visualization-with-power-bi/",
+   "ds": "Learn data visualization skills with hands-on experience building dashboards in Power BI."
+  },
+  {
+   "n": "Microsoft Copilot for Professionals",
+   "l": "Intermediate",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/strategic-prompt-engineering-microsoft-copilot/",
+   "ds": "Ground Microsoft 365 Copilot in real organisational data across Word, Excel, Outlook, Teams and custom agents."
+  },
+  {
+   "n": "SQL Foundations",
+   "l": "Beginner",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/sql-foundations-course/",
+   "ds": "Learn the fundamentals of SQL, including subqueries, window functions and CTEs."
+  },
+  {
+   "n": "Fundamentals of a Data Stack",
+   "l": "Intermediate",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/fundamentals-of-a-modern-data-stack/",
+   "ds": "Learn the tools that streamline data processing so you can work with data independently."
+  },
+  {
+   "n": "Prompt Engineering",
+   "l": "Intermediate",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/prompt-engineering-course/",
+   "ds": "Leverage AI tools to make your company future-proof: enhance productivity and improve decision-making."
+  },
+  {
+   "n": "Data Engineering bootcamp",
+   "l": "Advanced",
+   "d": 18,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/data-engineering-bootcamp/",
+   "ds": "Become an expert in data engineering, working with Python, Azure, Databricks and PySpark."
+  },
+  {
+   "n": "Programming with Python",
+   "l": "Beginner",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/programming-with-python/",
+   "ds": "Leverage Python, the leading programming language for data scientists, to perform powerful calculations on large datasets."
+  },
+  {
+   "n": "Azure Data Fundamentals",
+   "l": "Intermediate",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/azure-data-fundamentals-course/",
+   "ds": "Build a solid foundation in cloud data management with Microsoft Azure."
+  },
+  {
+   "n": "Retrieval-Augmented Generation (RAG)",
+   "l": "Advanced",
+   "d": 3,
+   "nq": "bachelor",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/retrieval-augmented-generation-rag/",
+   "ds": "Learn RAG, combining vector databases with LLMs to build accurate, grounded AI applications."
+  }
+ ],
+ "skills": [
+  {
+   "n": "AI strategy & business impact",
+   "ds": "AI-kansen identificeren, business cases bouwen en AI-adoptie leiden in de organisatie.",
+   "r": [
+    "manager",
+    "hr_ld",
+    "management",
+    "marketing",
+    "finance",
+    "sales",
+    "operations"
+   ],
+   "g": [
+    "team",
+    "promotion",
+    "project"
+   ],
+   "p": [
+    "AI Strategy & Impact",
+    "AI Leadership Track"
+   ]
+  },
+  {
+   "n": "Deep learning & neural networks",
+   "ds": "Neurale netwerken ontwerpen en trainen met PyTorch of TensorFlow.",
+   "r": [
+    "developer",
+    "analyst",
+    "tech"
+   ],
+   "g": [
+    "job",
+    "project",
+    "promotion"
+   ],
+   "p": [
+    "Deep Learning with Python",
+    "AI Expert bootcamp",
+    "AI Engineering bootcamp"
+   ]
+  },
+  {
+   "n": "SQL querying",
+   "ds": "Data ophalen, joinen en aggregeren uit relationele databases met SQL.",
+   "r": [
+    "analyst",
+    "career_switch",
+    "developer",
+    "other",
+    "tech",
+    "finance",
+    "marketing",
+    "operations"
+   ],
+   "g": [
+    "job",
+    "promotion",
+    "project"
+   ],
+   "p": [
+    "SQL Foundations",
+    "Data & Analytics Bootcamp"
+   ]
+  },
+  {
+   "n": "Data visualisation with Power BI",
+   "ds": "Dashboards en rapportages bouwen in Power BI voor besluitvorming.",
+   "r": [
+    "analyst",
+    "manager",
+    "hr_ld",
+    "other",
+    "finance",
+    "marketing",
+    "sales",
+    "operations",
+    "management"
+   ],
+   "g": [
+    "promotion",
+    "project",
+    "team"
+   ],
+   "p": [
+    "Data visualization with Power BI",
+    "Data & Analytics Bootcamp"
+   ]
+  },
+  {
+   "n": "Microsoft Copilot productivity",
+   "ds": "Copilot inzetten in Office 365 voor dagelijkse productiviteit en analyse.",
+   "r": [
+    "manager",
+    "hr_ld",
+    "other",
+    "analyst",
+    "marketing",
+    "finance",
+    "legal",
+    "sales",
+    "operations",
+    "management"
+   ],
+   "g": [
+    "promotion",
+    "team",
+    "curious"
+   ],
+   "p": [
+    "Microsoft Copilot for Professionals"
+   ]
+  },
+  {
+   "n": "Data analysis with pandas",
+   "ds": "Datasets laden, opschonen, filteren en samenvatten met pandas en NumPy.",
+   "r": [
+    "analyst",
+    "career_switch",
+    "developer",
+    "tech",
+    "finance"
+   ],
+   "g": [
+    "job",
+    "promotion",
+    "project"
+   ],
+   "p": [
+    "Datascience bootcamp",
+    "Data & Analytics Bootcamp",
+    "Data professional bootcamp"
+   ]
+  },
+  {
+   "n": "Data storytelling",
+   "ds": "Inzichten uit data helder presenteren en overtuigend communiceren aan stakeholders.",
+   "r": [
+    "analyst",
+    "manager",
+    "hr_ld",
+    "marketing",
+    "sales",
+    "management",
+    "finance"
+   ],
+   "g": [
+    "promotion",
+    "team",
+    "project"
+   ],
+   "p": [
+    "Data Storytelling",
+    "Data & Analytics Bootcamp"
+   ]
+  },
+  {
+   "n": "Machine learning modelling",
+   "ds": "Supervised en unsupervised modellen bouwen, evalueren en optimaliseren met scikit-learn.",
+   "r": [
+    "analyst",
+    "developer",
+    "career_switch",
+    "tech"
+   ],
+   "g": [
+    "job",
+    "promotion",
+    "project"
+   ],
+   "p": [
+    "Machine Learning with Python",
+    "Datascience bootcamp",
+    "AI Professional bootcamp"
+   ]
+  },
+  {
+   "n": "Prompt engineering",
+   "ds": "Effectieve prompts ontwerpen, structureren en evalueren voor LLM's in het werk.",
+   "r": [
+    "analyst",
+    "developer",
+    "manager",
+    "hr_ld",
+    "career_switch",
+    "other",
+    "marketing",
+    "finance",
+    "legal",
+    "sales",
+    "operations",
+    "management",
+    "tech"
+   ],
+   "g": [
+    "promotion",
+    "team",
+    "project",
+    "curious"
+   ],
+   "p": [
+    "Prompt Engineering",
+    "Applied AI & bootcamp"
+   ]
+  },
+  {
+   "n": "ML deployment on Azure",
+   "ds": "Modellen trainen, deployen en monitoren in Azure Machine Learning.",
+   "r": [
+    "developer",
+    "analyst",
+    "tech"
+   ],
+   "g": [
+    "project",
+    "promotion",
+    "job"
+   ],
+   "p": [
+    "Building AI models with Azure",
+    "AI Engineering bootcamp"
+   ]
+  },
+  {
+   "n": "Modern data stack architecture",
+   "ds": "Overzicht van warehouses, lakes, orkestratie en BI-tools en hoe ze samenwerken.",
+   "r": [
+    "developer",
+    "analyst",
+    "manager",
+    "tech",
+    "management",
+    "operations"
+   ],
+   "g": [
+    "promotion",
+    "project",
+    "team"
+   ],
+   "p": [
+    "Fundamentals of a Data Stack",
+    "Data Engineering bootcamp"
+   ]
+  },
+  {
+   "n": "Azure data fundamentals",
+   "ds": "Kernconcepten van dataopslag en -verwerking in Microsoft Azure.",
+   "r": [
+    "developer",
+    "analyst",
+    "tech"
+   ],
+   "g": [
+    "job",
+    "promotion",
+    "project"
+   ],
+   "p": [
+    "Azure Data Fundamentals",
+    "Data Engineering bootcamp"
+   ]
+  },
+  {
+   "n": "LangChain & LLM orchestration",
+   "ds": "LLM-applicaties bouwen met LangChain: chains, memory, tools en agents.",
+   "r": [
+    "developer",
+    "tech"
+   ],
+   "g": [
+    "project",
+    "job"
+   ],
+   "p": [
+    "Langchain & AI agents",
+    "AI Engineering bootcamp"
+   ]
+  },
+  {
+   "n": "No-code AI app building",
+   "ds": "Werkende apps en prototypes bouwen met AI-tools zonder klassiek programmeren.",
+   "r": [
+    "manager",
+    "hr_ld",
+    "other",
+    "career_switch",
+    "marketing",
+    "sales",
+    "operations",
+    "management"
+   ],
+   "g": [
+    "project",
+    "curious",
+    "promotion"
+   ],
+   "p": [
+    "Vibe Coding with Lovable"
+   ]
+  },
+  {
+   "n": "Career readiness for data roles",
+   "ds": "Portfolio, cv en sollicitatievaardigheden gericht op een eerste data- of AI-baan.",
+   "r": [
+    "career_switch",
+    "other"
+   ],
+   "g": [
+    "job"
+   ],
+   "p": [
+    "Data internship & career counseling",
+    "Data professional bootcamp"
+   ]
+  },
+  {
+   "n": "Python fundamentals",
+   "ds": "Variabelen, loops, functies en datastructuren in Python, toegepast op data.",
+   "r": [
+    "analyst",
+    "career_switch",
+    "other",
+    "hr_ld",
+    "tech",
+    "finance"
+   ],
+   "g": [
+    "job",
+    "curious",
+    "promotion"
+   ],
+   "p": [
+    "Programming with Python",
+    "Data fundamentals"
+   ]
+  },
+  {
+   "n": "AI literacy & ethics",
+   "ds": "Begrijpen wat AI wel en niet kan, inclusief bias, privacy en de EU AI Act.",
+   "r": [
+    "manager",
+    "hr_ld",
+    "other",
+    "analyst",
+    "legal",
+    "management",
+    "marketing",
+    "finance",
+    "sales",
+    "operations"
+   ],
+   "g": [
+    "curious",
+    "team",
+    "promotion"
+   ],
+   "p": [
+    "AI Literacy & Ethics",
+    "AI Leadership Track"
+   ]
+  },
+  {
+   "n": "Data pipelines & ETL",
+   "ds": "Betrouwbare datapijplijnen ontwerpen en bouwen: ingestie, transformatie, orkestratie.",
+   "r": [
+    "developer",
+    "analyst",
+    "tech"
+   ],
+   "g": [
+    "job",
+    "promotion",
+    "project"
+   ],
+   "p": [
+    "Data Engineering bootcamp",
+    "Fundamentals of a Data Stack"
+   ]
+  },
+  {
+   "n": "Statistics for data science",
+   "ds": "Beschrijvende en inferentiële statistiek als fundament voor analyse en ML.",
+   "r": [
+    "analyst",
+    "career_switch",
+    "developer",
+    "tech",
+    "finance"
+   ],
+   "g": [
+    "job",
+    "promotion"
+   ],
+   "p": [
+    "Data fundamentals",
+    "Datascience bootcamp"
+   ]
+  },
+  {
+   "n": "AI-assisted programming",
+   "ds": "Sneller en beter code schrijven met AI-coding tools zoals Claude Code.",
+   "r": [
+    "developer",
+    "analyst",
+    "career_switch",
+    "tech"
+   ],
+   "g": [
+    "promotion",
+    "project",
+    "curious"
+   ],
+   "p": [
+    "Programming with AI (Claude Code)"
+   ]
+  },
+  {
+   "n": "Building AI agents",
+   "ds": "Autonome AI-agents ontwerpen die tools aanroepen en workflows automatiseren.",
+   "r": [
+    "developer",
+    "analyst",
+    "manager",
+    "other",
+    "operations",
+    "marketing",
+    "sales",
+    "tech",
+    "management"
+   ],
+   "g": [
+    "project",
+    "promotion",
+    "curious",
+    "job"
+   ],
+   "p": [
+    "Building AI Agents",
+    "Langchain & AI agents",
+    "Applied AI & bootcamp"
+   ]
+  },
+  {
+   "n": "Excel for data analysis",
+   "ds": "Draaitabellen, formules en datamodellen in Excel voor analyse.",
+   "r": [
+    "manager",
+    "hr_ld",
+    "other",
+    "analyst",
+    "finance",
+    "operations",
+    "sales"
+   ],
+   "g": [
+    "promotion",
+    "curious",
+    "team"
+   ],
+   "p": [
+    "Microsoft Excel Essentials"
+   ]
+  },
+  {
+   "n": "Retrieval-Augmented Generation (RAG)",
+   "ds": "LLM's koppelen aan eigen documenten met embeddings, vector stores en retrieval.",
+   "r": [
+    "developer",
+    "analyst",
+    "tech",
+    "legal"
+   ],
+   "g": [
+    "project",
+    "job",
+    "promotion"
+   ],
+   "p": [
+    "Retrieval-Augmented Generation (RAG)",
+    "AI Engineering bootcamp",
+    "AI Expert bootcamp"
+   ]
+  }
+ ]
+}
