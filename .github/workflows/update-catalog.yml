@@ -18,7 +18,7 @@ jobs:
           node-version: 20
       - name: Catalogus ophalen
         env:
-          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN || secrets.AT }}
         run: node scripts/build-catalog.mjs
       - name: Committen als er iets veranderd is
         run: |
