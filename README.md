@@ -32,6 +32,18 @@ docs/catalog.json  ->  GitHub Pages (docs/)  ->  <script src=".../embed.js"> on 
 
 Optionally place `<div id="ada-skill-navigator"></div>` where the widget should appear; otherwise it renders right after the script tag. Works in WordPress (Custom HTML block), Webflow, etc.
 
+### Variants
+
+Two extra calculators share the same look, catalogue and embed script:
+
+| Variant | Link | Embed |
+|---|---|---|
+| AI Skill Navigator | `/` | `<script src=".../embed.js" async></script>` |
+| AI-risicocalculator | `/risico/` | `<script src=".../embed.js" data-variant="risico" async></script>` |
+| AI-salariscalculator | `/salaris/` | `<script src=".../embed.js" data-variant="salaris" async></script>` |
+
+Use `data-target="some-id"` to render into a specific element (needed when you place more than one widget on a page). Figures in the calculators are indications based on ILO (2025), PwC Global AI Jobs Barometer 2026 and the St. Louis Fed (2025); see the source notes in each result screen.
+
 ## Field-of-work values
 
 The first question maps to these values in the *Relevant for roles* field: `marketing`, `finance`, `legal`, `hr_ld`, `sales`, `operations`, `management`, `tech`, `career_switch`. When adding a skill in Airtable, tag every field of work it is relevant for.
