@@ -1,5 +1,5 @@
 {
- "generated": "seed",
+ "generated": "2026-09-23T04:54:09.163Z",
  "products": [
   {
    "n": "Machine Learning with Python",
@@ -89,7 +89,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/applied-ai-data-science-diploma-course/",
-   "ds": "The Applied AI and Data Science Diploma Course is the Netherlands' first private AI and data science programme at NLQF level 6, built from foundations to a supervised real-world internship."
+   "ds": "The Applied AI and Data Science Diploma Course is the Netherlands first private AI and data science programme at bachelor level (NLQF Level 6). In 624 hours of structured blended learning, you build the skills to work as a data analyst, data scientist, or AI developer - from solid foundations to a supervised real-world internship."
   },
   {
    "n": "Data fundamentals",
@@ -98,7 +98,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/fundamentals-of-datascience-ai/",
-   "ds": "Build your foundation in data: the landscape, the tools and the statistics behind every data role."
+   "ds": "Build your foundation in data: the landscape, the tools and the statistics behind every data role. The starting point for the Data & Analytics, Data Science and Data Engineering bootcamps."
   },
   {
    "n": "Programming with AI (Claude Code)",
@@ -107,7 +107,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/programming-with-ai-tools/",
-   "ds": "AI-assisted development is the new normal. Learn to direct Claude Code inside a real repository, from context engineering to production-ready delivery."
+   "ds": "AI-assisted development is the new normal. In this hands-on course you'll learn to direct Claude Code as an agentic coding tool inside a real repository — from context engineering to spec-driven, production-ready delivery."
   },
   {
    "n": "AI Strategy & Impact",
@@ -125,7 +125,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/data-storytelling/",
-   "ds": "Learn to present data in a compelling way that sticks."
+   "ds": "Learn to present data in a compelling way that sticks. This course teaches you the most important strategies to visualize and communicate your data effectively."
   },
   {
    "n": "Data expert bootcamp",
@@ -143,16 +143,16 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/ai-professional-bootcamp/",
-   "ds": "This programme stacks two bootcamps — Applied AI and AI Engineering — into one journey: build across the full AI stack."
+   "ds": "This programme stacks two bootcamps — Applied AI and AI Engineering — into one journey: build across the full AI stack, from low-code tools to code."
   },
   {
    "n": "AI Leadership Track",
-   "l": "Intermediate",
+   "l": "",
    "d": 5,
    "nq": "None",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/ai-leadership-track/",
-   "ds": "A closed programme for founders, directors and senior leaders. You bring one real AI decision from your own organisation and carry it through."
+   "ds": "A closed programme for a maximum of eight founders, directors and senior leaders. Online kickoff, three Friday afternoons in Amsterdam and a closing afternoon with dinner, from October to February. You bring one real AI decision from your own organisation and carry it the whole way through."
   },
   {
    "n": "AI Engineering bootcamp",
@@ -161,7 +161,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/ai-engineering-bootcamp/",
-   "ds": "Secure your career for the future with this bootcamp in generative AI."
+   "ds": "Do you want to be prepared for the AI hype and secure your career for the future? With this bootcamp in generative AI, you'll make your career future-proof!"
   },
   {
    "n": "Building AI Agents",
@@ -170,7 +170,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/building-ai-agents-course/",
-   "ds": "Build your own AI agents, no coding needed. Design agents that perceive, reason, act and remember with no-code tools like n8n and Claude."
+   "ds": "Build your own AI agents, no coding needed. Learn to design agents that perceive, reason, act, and remember, then build and automate them with no-code tools like n8n and Claude."
   },
   {
    "n": "AI Literacy & Ethics",
@@ -179,7 +179,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/ai-literacy-ethics-course/",
-   "ds": "Explore the ethical, legal, and social implications of AI, including the EU AI Act."
+   "ds": "Explore the ethical, legal, and social implications of AI including the EU AI Act. Learn to evaluate and design responsible AI strategies."
   },
   {
    "n": "Vibe Coding with Lovable",
@@ -188,7 +188,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/vibe-coding/",
-   "ds": "Describe what you want to build and let AI do the heavy lifting — no coding background required."
+   "ds": "The way we build software has fundamentally changed. In this hands-on course you'll learn to describe what you want to build and let AI do the heavy lifting — no coding background required."
   },
   {
    "n": "Langchain & AI agents",
@@ -197,7 +197,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/building-genai-apps-with-langchain/",
-   "ds": "Learn LangChain, a powerful framework for building applications with large language models."
+   "ds": "Learn LangChain, a powerful framework for building applications with large language models. Connect models to external data sources and build custom AI agents."
   },
   {
    "n": "Microsoft Excel Essentials",
@@ -206,7 +206,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/microsoft-excel-essentials-course/",
-   "ds": "Maximize your efficiency in using Microsoft Excel for large datasets."
+   "ds": "Maximize your efficiency in using Microsoft Excel. This Essentials course covers all basic functionality and is specially designed to help you increase your productivity with large datasets."
   },
   {
    "n": "Data visualization with Power BI",
@@ -215,7 +215,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/data-visualization-with-power-bi/",
-   "ds": "Learn data visualization skills with hands-on experience building dashboards in Power BI."
+   "ds": "Do you struggle with making data understandable and impactful? Our course teaches you data visualization skills with hands-on experience building dashboards in Power BI."
   },
   {
    "n": "Microsoft Copilot for Professionals",
@@ -224,7 +224,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/strategic-prompt-engineering-microsoft-copilot/",
-   "ds": "Ground Microsoft 365 Copilot in real organisational data across Word, Excel, Outlook, Teams and custom agents."
+   "ds": "Ground Microsoft 365 Copilot in real organisational data using the GCSE framework across Word, Excel, Outlook, Teams, and custom agents."
   },
   {
    "n": "SQL Foundations",
@@ -233,7 +233,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/sql-foundations-course/",
-   "ds": "Learn the fundamentals of SQL, including subqueries, window functions and CTEs."
+   "ds": "Learn the fundamentals of SQL for working with structured data. Covers advanced techniques including subqueries, window functions, and CTEs."
   },
   {
    "n": "Fundamentals of a Data Stack",
@@ -242,7 +242,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/fundamentals-of-a-modern-data-stack/",
-   "ds": "Learn the tools that streamline data processing so you can work with data independently."
+   "ds": "Do you work extensively with data and want to elevate your skills? Learn to use essential tools that streamline data processing, save time, and enable you to work independently."
   },
   {
    "n": "Prompt Engineering",
@@ -251,7 +251,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/prompt-engineering-course/",
-   "ds": "Leverage AI tools to make your company future-proof: enhance productivity and improve decision-making."
+   "ds": "Do you want to leverage AI tools to make your company future-proof? Discover how to enhance productivity, cut costs, and improve decision-making with the latest AI solutions."
   },
   {
    "n": "Data Engineering bootcamp",
@@ -260,7 +260,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/data-engineering-bootcamp/",
-   "ds": "Become an expert in data engineering, working with Python, Azure, Databricks and PySpark."
+   "ds": "Are you looking to become an expert in data engineering? In this bootcamp, you'll gain expertise in working with Python, Azure, Databricks and PySpark."
   },
   {
    "n": "Programming with Python",
@@ -269,7 +269,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/programming-with-python/",
-   "ds": "Leverage Python, the leading programming language for data scientists, to perform powerful calculations on large datasets."
+   "ds": "Do you want to leverage Python, the leading programming language for data scientists, to perform powerful calculations on large datasets?"
   },
   {
    "n": "Azure Data Fundamentals",
@@ -278,7 +278,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/azure-data-fundamentals-course/",
-   "ds": "Build a solid foundation in cloud data management with Microsoft Azure."
+   "ds": "Want to build a solid foundation in cloud data management with Microsoft Azure? Learn to work with Azure services for data storage, processing, and analytics."
   },
   {
    "n": "Retrieval-Augmented Generation (RAG)",
@@ -287,7 +287,7 @@
    "nq": "bachelor",
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/retrieval-augmented-generation-rag/",
-   "ds": "Learn RAG, combining vector databases with LLMs to build accurate, grounded AI applications."
+   "ds": "Learn RAG, a cutting-edge technique that enhances LLMs with external knowledge. Combine vector databases with LLMs to build accurate, grounded AI applications."
   }
  ],
  "skills": [
@@ -671,7 +671,7 @@
   },
   {
    "n": "Statistics for data science",
-   "ds": "Beschrijvende en inferentiële statistiek als fundament voor analyse en ML.",
+   "ds": "Beschrijvende en inferentiele statistiek als fundament voor analyse en ML.",
    "r": [
     "analyst",
     "career_switch",
