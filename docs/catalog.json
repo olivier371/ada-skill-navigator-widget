@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T04:54:09.163Z",
+ "generated": "2026-09-30T10:19:21.573Z",
  "products": [
   {
    "n": "Machine Learning with Python",
@@ -243,6 +243,15 @@
    "dl": "Blended",
    "u": "https://amsterdamdataacademy.com/product/fundamentals-of-a-modern-data-stack/",
    "ds": "Do you work extensively with data and want to elevate your skills? Learn to use essential tools that streamline data processing, save time, and enable you to work independently."
+  },
+  {
+   "n": "Cybersecurity en Digitale Soevereiniteit in het AI-tijdperk",
+   "l": "Beginner",
+   "d": 27,
+   "nq": "None",
+   "dl": "Blended",
+   "u": "https://amsterdamdataacademy.com/product/cybersecurity-digital-sovereignty-ai-bootcamp/",
+   "ds": "A 27-week programme for people without an IT background who work with data and AI tools every day. You learn to recognise threats, use AI within the rules, and map where the data in your own work ends up. Taught in Dutch or English. NLQF Level 4 classification applied for."
   },
   {
    "n": "Prompt Engineering",
