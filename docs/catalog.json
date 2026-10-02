@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T10:19:21.573Z",
+ "generated": "2026-10-02T10:20:47.490Z",
  "products": [
   {
    "n": "Machine Learning with Python",
@@ -29,7 +29,7 @@
    "ds": "Become a versatile data professional. This comprehensive bootcamp combines data science, analytics, and engineering skills in one program."
   },
   {
-   "n": "Building AI models with Azure",
+   "n": "Engineering AI solutions on Azure",
    "l": "Advanced",
    "d": 3,
    "nq": "bachelor",
@@ -518,7 +518,7 @@
     "job"
    ],
    "p": [
-    "Building AI models with Azure",
+    "Engineering AI solutions on Azure",
     "AI Engineering bootcamp"
    ]
   },
